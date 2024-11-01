@@ -1,0 +1,8 @@
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba\proba\bin\Debug\proba.exe.config
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba\proba\bin\Debug\proba.exe
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba\proba\bin\Debug\proba.pdb
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba\proba\obj\Debug\proba.exe
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba\proba\obj\Debug\proba.pdb

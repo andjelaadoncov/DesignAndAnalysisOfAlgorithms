@@ -1,0 +1,8 @@
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba2.0\proba2.0\bin\Debug\proba2.0.exe.config
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba2.0\proba2.0\bin\Debug\proba2.0.exe
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba2.0\proba2.0\bin\Debug\proba2.0.pdb
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba2.0\proba2.0\obj\Debug\proba2.0.csproj.AssemblyReference.cache
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba2.0\proba2.0\obj\Debug\proba2.0.csproj.SuggestedBindingRedirects.cache
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba2.0\proba2.0\obj\Debug\proba2.0.csproj.CoreCompileInputs.cache
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba2.0\proba2.0\obj\Debug\proba2.0.exe
+C:\FAKULTET\5 SEMESTAR\PROJEKTOVANJE I ANALIZA ALGORITAMA\proba\proba2.0\proba2.0\obj\Debug\proba2.0.pdb
